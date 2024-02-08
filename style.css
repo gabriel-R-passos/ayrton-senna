@@ -1,0 +1,27 @@
+h1 {
+    font-size: 60px;
+    padding: 20px;
+    color: #ffffff;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+}
+
+.carousel-item img {
+    height: 70vh;
+}
+
+.carousel-caption h5 {
+    font-size: 80px;
+    color: #ffc107;
+    text-shadow: 2px 2px 2px black;
+}
+
+.card img {
+    height: 40vh;
+}
